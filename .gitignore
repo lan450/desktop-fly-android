@@ -1,0 +1,4 @@
+build/
+DesktopFly-MVP.apk
+*.idsig
+.DS_Store
