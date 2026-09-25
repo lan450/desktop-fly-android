@@ -3,8 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
 [![Data: CC BY-NC 4.0](https://img.shields.io/badge/FlyWire%20data-CC%20BY--NC%204.0-orange.svg)](assets/data/DATA_LICENSE.md)
 
-[DesktopFly](https://github.com/DenisSergeevitch/desktop-fly) 的安卓移植 MVP：点开 app，
-一只由**真实连接组回路**驱动的果蝇在屏幕里生活。非桌宠形态（不做悬浮窗）。
+[DesktopFly](https://github.com/DenisSergeevitch/desktop-fly) 的安卓移植：点开 app，
+一只由**真实连接组回路**驱动的果蝇在屏幕里生活。
 
 ![demo](docs/screenshot-flight.png)
 
